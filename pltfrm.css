@@ -11,7 +11,10 @@ li{
 #l1{
     background-color: tomato;
 }
-img{
-    width: 100px;
+.wallpaper{
+    width: 700px;
+}
+.social{
+    width: 30px;
 }
 </style>

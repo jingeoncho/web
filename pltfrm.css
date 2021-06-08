@@ -1,0 +1,17 @@
+<style type="text/css">
+p{
+    text-align: center;
+}
+li{
+    background-color: springgreen;
+    list-style-type: none;
+    float: left;
+    margin-left: 20px;
+}
+#l1{
+    background-color: tomato;
+}
+img{
+    width: 100px;
+}
+</style>
